@@ -1,0 +1,141 @@
+* {
+  box-sizing: border-box;
+}
+#container {
+  max-width: 2000px;
+  margin: auto;
+  height: 1000px;
+  background-image: linear-gradient(#fff, #dbe4ec);
+}
+#head-container {
+  width: 1024px;
+  margin: auto;
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+h2{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.G-started{
+    text-decoration:  none;
+    padding: 15px;
+    color: #fff;
+    background-color: #000;
+    border-radius: 30px;
+}
+#boxs {
+  width: 1024px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#box1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   h1{
+    font-size: 50px;
+   }
+   p{
+    line-height: 1.3rem;
+    margin-bottom: 25px;
+    opacity: 0.9;
+   }
+.a {
+  text-decoration: none;
+  color: #fff;
+  background-image: linear-gradient(#fc5e55, #fa4083);
+  padding: 15px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  font-size: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#circle {
+  background-color: #ffff;
+  border-radius: 50% 35%;
+  height: 150px;
+}
+#cards {
+  width: 1024px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  box-sizing: border-box;
+}
+#card1 {
+  color: #fff;
+  padding: 25px;
+  background-image: linear-gradient(#fc5e55, #fa4083);
+  width: 25%;
+  min-height: 200px;
+  border-radius: 10px;
+  line-height: 1.5rem;
+}
+#card2 {
+  color: #000;
+  background-color: #fff;
+  width: 25%;
+  min-height: 200px;
+  padding: 25px;
+  line-height: 1.5rem;
+  border-radius: 20px;
+}
+.Get-s {
+  color: #fa4083;
+  text-decoration: none;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#card3 {
+  color: #000;
+  background-color: #fff;
+  width: 25%;
+  min-height: 200px;
+  padding: 25px;
+  line-height: 1.5rem;
+  border-radius: 20px;
+}
+#herobox {
+  width: 1024px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  font-size: 15px;
+  box-sizing: border-box;
+}
+#herobox1
+{
+    color: #000;
+    background-color: #fff;
+    width: 25%;
+    min-height: 200px;
+    padding: 25px;
+    line-height: 1.5rem;
+    border-radius: 20px;
+}
+
+ #herobox2
+ {
+    color: #000;
+    background-color: #fff;
+    width: 25%;
+    min-height: 200px;
+    padding: 25px;
+    line-height: 1.5rem;
+    border-radius: 20px;
+}
+
+  #herobox3{
+    color: #000;
+    background-color: #fff;
+    width: 25%;
+    min-height: 200px;
+    padding: 25px;
+    line-height: 1.5rem;
+    border-radius: 20px;
+}
